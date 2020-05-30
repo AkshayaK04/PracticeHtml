@@ -1,0 +1,26 @@
+h1{
+	color: red;
+    border:20px solid black;
+    border-style:dotted; 
+    background-color:yellow; }
+
+body{
+	background-image: url("img.jpg");
+	
+}
+ol{list-style-type: upper-roman;}
+
+ul{list-style-type: square;}
+
+table,th,td
+{
+	border:1px solid yellow;
+	border-collapse: collapse;
+	height: 100px;
+	width: 50%;
+}
+td,th
+{
+	text-align: center;
+	padding: 100px;
+}
